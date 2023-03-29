@@ -31,5 +31,7 @@ def self.artist_count
 end
 
 def self.genre_count
-    @@artists.tally
+    @@genres.tally
+end
+
 end
